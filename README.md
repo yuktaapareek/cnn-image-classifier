@@ -1,6 +1,6 @@
 # 🧠 CNN Image Classification using TensorFlow (CIFAR-10 + Custom Images)
 
-### 👩‍💻 Author: Riddhi  
+### 👩‍💻 Author: Yukta
 ### 📅 Date: October 2025  
 
 ---
