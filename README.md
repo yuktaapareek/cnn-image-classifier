@@ -98,5 +98,5 @@ Additionally, the trained model is used to classify **custom images** provided i
 
 1. **Clone this repository:**
    ```bash
-   git clone https://github.com/yuktaapareek/cnn-image-classification.git
-   cd cnn-image-classification
+   git clone https://github.com/yuktaapareek/cnn-image-classifier.git
+   cd cnn-image-classifier
